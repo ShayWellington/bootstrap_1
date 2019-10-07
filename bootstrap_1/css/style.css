@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.myBackground {
+  /* background: #FFF2E4; */
+}
+
+.navbar {
+  margin: 2em 0;
+}
+
+.heading {
+    margin-bottom: 0.5em;
+}
+
+.heading-2 {
+  margin-bottom: 1em;
+}
+
+.myPara {
+  font-family: Helvetica;
+  font-size: 18px;
+  padding-left: 1em;
+}
+
+.myImage {
+  width: 46em;
+  margin: 1em 0;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 200px;
+}
+
+.logo {
+  width: 3em;
+}
